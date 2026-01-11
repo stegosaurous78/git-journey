@@ -1,3 +1,4 @@
 Three
 3
-Abracadabra
+Abracadabra (Did fetch 1st, then merge 2nd -> seperately)
+Fetch + Merge(i.e git pull)
